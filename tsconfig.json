@@ -3,6 +3,17 @@
         "sourceMap": true
     },
     "files": [
-      "introduction/hello_world.ts",
+      "basicSyntaxAndStructure/hello_world.ts",
+      "basicSyntaxAndStructure/variables.ts",
+      "basicSyntaxAndStructure/stringInterpolation.ts",
+      "basicSyntaxAndStructure/types.ts",
+      "basicSyntaxAndStructure/aliasTypes.ts",
+      "basicSyntaxAndStructure/arithmeticOperators.ts",
+      "basicSyntaxAndStructure/compoundConditionals.ts",
+      "basicSyntaxAndStructure/conditionalOperators.ts",
+      "basicSyntaxAndStructure/loops.ts",
+      "basicSyntaxAndStructure/functions.ts",
+      "basicSyntaxAndStructure/functionArguments.ts",
+      "basicSyntaxAndStructure/unionTypes.ts"
     ]
 }
