@@ -1,4 +1,5 @@
 function hey_there() {
-    console.log("Hi from typescritp");
+    console.log("Hi from typescript");
 }
-hey_there;
+hey_there();
+//# sourceMappingURL=005_typescript_config.js.map
