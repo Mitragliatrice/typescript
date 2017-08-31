@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "sourceMap": true
+    },
+    "files": [
+      "hello_world.ts",
+      "variables.ts",
+      "stringInterpolation.ts",
+      "types.ts",
+      "aliasTypes.ts",
+      "arithmeticOperators.ts",
+      "compoundConditionals.ts",
+      "conditionalOperators.ts",
+      "loops.ts",
+      "functions.ts",
+      "functionArguments.ts",
+      "arrowFunctions.ts",
+      "declarationsVSexpressions.ts",
+      "immediatelyInvokedFunctions.ts",
+      "closures.ts",
+      "unionTypes.ts"
+    ]
+}

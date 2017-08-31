@@ -1,0 +1,13 @@
+  {
+    "compilerOptions": {
+      "sourceMap": true
+    },
+    "files": [
+      "classes.ts",
+      "oop.ts",
+      "objects.ts",
+      "interfaces.ts",
+      "interfaceFunctions.ts",
+      "interfaceClasses.ts"
+    ]
+  }
